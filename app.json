@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "IMCCALCULATOR.EXP"
     },
     "web": {
       "favicon": "./assets/favicon.png"
